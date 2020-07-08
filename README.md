@@ -1,6 +1,6 @@
 # Gesture-Recognition
 
-The project holds a simple Gesture Recognition using **OpenCV**.
+The project holds a simple Hand Gesture Recognition using **OpenCV**.
 
 ## ✔Import Libraries --
     - numpy
