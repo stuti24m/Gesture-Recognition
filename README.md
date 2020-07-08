@@ -1,3 +1,3 @@
 # Gesture-Recognition
 
-Still working on it.
+The project holds a simple Gesture Recognition using **OpenCV**.
